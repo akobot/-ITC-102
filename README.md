@@ -1,2 +1,2 @@
-# -ITC-102
+# ITC-102
 Repository for class HTML CSS and Javascript
