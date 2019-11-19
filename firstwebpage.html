@@ -1,20 +1,84 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {background-color: powderblue;}
-h1   {color: Red;}
-p    {color: green;}
+
+/* Style the header */
+.header {
+
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+}
 </style>
 </head>
 <body>
-<font>
-<h1>Welcome</h1>
-						<p style = "font-family:courier,arial,helvetica;">
-						Welcome to the blue screen where our screen is blue! <p>
 
-					<p>We here at the blue company are very fond of the color blue. </p>
-	
+<div class="header">
+  <h1>Welcome to our websight!</h1>
+  <p>BY:Member1, Member2, Member3.</p>
+</div>
+
+<div class="topnav">
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+</div>
+
+<div class="row">
+  <div class="column">
+    <h2>Member #1</h2>
+    <p>Type Bio here.</p>
+  </div>
+  
+  <div class="column">
+    <h2>Member #2</h2>
+    <p>Type Bio here.</p>
+  </div>
+  
+  <div class="column">
+    <h2>Member#3</h2>
+    <p>Type Bio here.</p>
+  </div>
+</div>
 
 </body>
 </html>
