@@ -1,0 +1,72 @@
+<html>
+<head>
+<style> 
+html { 
+  background: url(https://wallpapertag.com/wallpaper/full/1/6/5/277301-vertical-light-blue-background-2560x1600-ipad-pro.jpg) no-repeat center fixed; 
+  background-size: cover;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+p {
+
+color: black;
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>Welcome to our webpage!</h1>
+<html>
+<head>
+<style>
+
+p.solid {border-style: solid;}
+
+</style>
+</head>
+<body>
+
+
+
+
+
+<p class="solid">Group member#1 Biography:.</p>
+
+</body>
+</html>
+
+<html>
+<head>
+<style>
+
+p.solid {border-style: solid;}
+
+</style>
+</head>
+<body>
+
+<p class="solid"> Group member#2 Biography.</p>
+
+</body>
+</html>
+
+<html>
+<head>
+<style>
+
+p.solid {border-style: solid;}
+
+</style>
+</head>
+<body>
+
+<p class="solid">Group member#3 Biography.</p>
+
+</body>
+</html>
