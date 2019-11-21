@@ -1,0 +1,100 @@
+<html>
+<head>
+<style> 
+html { 
+  background: url("https://4vector.com/i/free-vector-abstract-background-technology_133729_abstract_background_technology.jpg") no-repeat center fixed; 
+  background-size: cover;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>CSS Website Layout</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Welcome to our website!</h1>
+  <p>BY:Member1, Member2, Member3.</p>
+</div>
+
+<div class="topnav">
+  <a href="
+
+
+https://stowerts.github.io/ITC-102/tombio.html">Thomas's Bio</a>
+  <a href="#">Lukuman's Bio</a>
+  <a href="https://akobot.github.io/ITC-102/isaacsbio.html">Isaac's Bio</a>
+</div>
+
+
+
+</style>
+</head>
+<body>
+
+
+
+</body>
+</html>
