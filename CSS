@@ -1,72 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid gray;
+  padding: 8px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: aqua;
+}
+
+p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+  color: aqua
+}
+
+a {
+  text-decoration: none;
+  color: #008CBA;
+}
+</style>
+</head>
+<body>
+
+<div>
+  <h1>Isaacs Bio</h1>
+  <p>This is my first quarter at Seattle Central. ITC 102 is one of the three classes I currently take. During my time in this class I have learned general computer terminology and can map out the inside of a computer. I am currently working on a certificate program for Database Management. </p>
+</div>
+
 <html>
 <head>
 <style> 
 html { 
-  background: url(https://wallpapertag.com/wallpaper/full/1/6/5/277301-vertical-light-blue-background-2560x1600-ipad-pro.jpg) no-repeat center fixed; 
+  background: url(https://images-na.ssl-images-amazon.com/images/I/71NcpTbHTTL._SL1010_.jpg) no-repeat center fixed; 
   background-size: cover;
 }
 
-h1 {
-  color: black;
-  text-align: center;
-}
-
-p {
-
-color: black;
-  font-family: verdana;
-  font-size: 20px;
-}
-</style>
-</head>
-<body>
-
-<h1>Welcome to our webpage!</h1>
-<html>
-<head>
-<style>
-
-p.solid {border-style: solid;}
-
-</style>
-</head>
-<body>
-
-
-
-
-
-<p class="solid">Group member#1 Biography:.</p>
 
 </body>
 </html>
 
-<html>
-<head>
-<style>
-
-p.solid {border-style: solid;}
-
-</style>
-</head>
-<body>
-
-<p class="solid"> Group member#2 Biography.</p>
-
-</body>
-</html>
-
-<html>
-<head>
-<style>
-
-p.solid {border-style: solid;}
-
-</style>
-</head>
-<body>
-
-<p class="solid">Group member#3 Biography.</p>
-
-</body>
-</html>
