@@ -1,8 +1,4 @@
-<html>
-<head>
-<style> 
-html { 
-  background: url("https://4vector.com/i/free-vector-abstract-background-technology_133729_abstract_background_technology.jpg") no-repeat center fixed; 
+  background: url("https://previews.123rf.com/images/mblach/mblach1609/mblach160900065/63955239-white-brick-wall-background.jpg") no-repeat center fixed; 
   background-size: cover;
 }
 
@@ -64,6 +60,8 @@ body {
   clear: both;
 }
 
+
+
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media screen and (max-width:600px) {
   .column {
@@ -76,7 +74,7 @@ body {
 
 <div class="header">
   <h1>Welcome to our website!</h1>
-  <p>BY:Member1, Member2, Member3.</p>
+  <p>BY:Thomas, Lukuman, Isaac.</p>
 </div>
 
 <div class="topnav">
@@ -88,11 +86,19 @@ https://stowerts.github.io/ITC-102/tombio.html">Thomas's Bio</a>
   <a href="https://akobot.github.io/ITC-102/isaacsbio.html">Isaac's Bio</a>
 </div>
 
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>in·for·ma·tion tech·nol·o·gy
+/ˌinfərˈˌmāSHən tekˈnäləjē/
+</h2>
+      <h5>noun</h5>
+     
+      <p>The study or use of systems (especially computers and telecommunications) for storing, retrieving, and sending information.
+"information technology consultants"</p>
+      <p></p>
+   
 
-
-</style>
-</head>
-<body>
 
 
 
