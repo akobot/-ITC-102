@@ -1,3 +1,7 @@
+<html>
+<head>
+<style> 
+html { 
   background: url("https://previews.123rf.com/images/mblach/mblach1609/mblach160900065/63955239-white-brick-wall-background.jpg") no-repeat center fixed; 
   background-size: cover;
 }
@@ -98,6 +102,53 @@ https://stowerts.github.io/ITC-102/tombio.html">Thomas's Bio</a>
 "information technology consultants"</p>
       <p></p>
    
+
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="gallery">
+  <a target="_blank" href="https://image.freepik.com/free-photo/computer-parts-white-background_69593-7656.jpg">
+    <img src="https://image.freepik.com/free-photo/computer-parts-white-background_69593-7656.jpg" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Electronics</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://a.simbi.com/images/20347/images/large-05205bc499e716a053ec822d3b0e4814.jpg">
+    <img src="https://a.simbi.com/images/20347/images/large-05205bc499e716a053ec822d3b0e4814.jpg" alt="Forest" width="600" height="400">
+  </a>
+  <div class="desc">Keyboard</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://www.nationalgeographic.com/content/dam/photography/photos/000/733/73335.ngsversion.1467253769662.adapt.1900.1.jpg">
+    <img src="https://www.nationalgeographic.com/content/dam/photography/photos/000/733/73335.ngsversion.1467253769662.adapt.1900.1.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Pile of parts</div>
+</div>
+
 
 
 
